@@ -11,7 +11,7 @@ These diagrams below shows How to make Registration and Login endpoints with Ago
 ## Login endpoint
 ![](https://cdn-images-1.medium.com/max/1600/1*JoiEm6Ox2Q_zLTw-fW84bA.png)
 
-For more information, please visit following links:
-[Django App Server for AgoraChat](https://github.com/AgoraIO/Agora-Chat-API-Examples/tree/main/chat-app-server-django)
-[Java App Server for Agora Chat](https://github.com/AgoraIO/Agora-Chat-API-Examples/tree/main/chat-app-server)
-[Secure Authentication with tokens](https://docs.agora.io/en/agora-chat/develop/authentication?platform=android)
+For more information, please visit following links:  
+[Django App Server for AgoraChat](https://github.com/AgoraIO/Agora-Chat-API-Examples/tree/main/chat-app-server-django)  
+[Java App Server for Agora Chat](https://github.com/AgoraIO/Agora-Chat-API-Examples/tree/main/chat-app-server)  
+[Secure Authentication with tokens](https://docs.agora.io/en/agora-chat/develop/authentication?platform=android)  
